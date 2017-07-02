@@ -1,2 +1,2 @@
 # study-material
-material.io/guidelines 번역
+[material.io/guidelines](material.io/guidelines) 번역
